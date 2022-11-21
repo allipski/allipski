@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allipski, nearly a fullstack developer!
+- 👋 Hi, I’m @allipski, nearly a fullstack developer (maybe a halfstack dev?)
 - 👩‍🎓 I've graduated in business & hotel management in Australia, but also went to engineering college in Brazil.
 - 👀 I’m interested in coding, cats, gaming, barista coffe, entrepreneurship, nature and social/enviromental matters that can make the world a better place for everyone.
 - 🌱 I’m currently studying to be a fullstack dev @DrivenEducation and get my career started in IT.
