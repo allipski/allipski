@@ -28,21 +28,21 @@
 </div>
 
 #### About me:
+- 👩‍💻 I’m a fullstack dev @DrivenEducation looking for an opportunity to contribute and bring my skills to the battlefield.
 - 👩‍🎓 I've graduated in business & hotel management in Australia, but also went to engineering college in Brazil.
 - 👀 I’m interested in coding, cats, gaming, barista coffe, entrepreneurship, nature and social/enviromental matters that can make the world a better place for everyone.
-- 🌱 I’m currently studying to be a fullstack dev @DrivenEducation and get my career started in IT.
 	
 #### Skills:
-- Front-end: HTML, CSS, Flexbox, JavaScript, React JS, Typescript, Object Oriented Programming (OOP), Styled-components, Vercel, Vite, Webpack;
-- Back-end: Typescript, Node.js, Express, MongoDB, PostgreSQL, Jest, Layered Architecture, Heroku, SQL, MySQL, Integration Testing, Test-driven Development (TDD), Prisma, ORM, PgAdmin, Redis, relational and non-relational databases;
-- Infra: Docker, AWS (Amazon Web Service);
-- Others: Clean Code, ESLint, Agile Methodologies, SCRUM, Trello, Slack, GitHub, GitFlow, Git, Refactoring, Continuous Integration and Continuous Delivery(CI/CD), Notion;
+- 🦚 Front-end: HTML, CSS, Flexbox, JavaScript, React JS, Typescript, Object Oriented Programming (OOP), Styled-components, Vercel, Vite, Webpack;
+- 💺 Back-end: Typescript, Node.js, Express, MongoDB, PostgreSQL, Jest, Layered Architecture, Heroku, SQL, MySQL, Integration Testing, Test-driven Development (TDD), Prisma, ORM, PgAdmin, Redis, relational and non-relational databases;
+- 🏢 Infra: Docker, AWS (Amazon Web Service);
+- 📌 Others: Clean Code, ESLint, Agile Methodologies, SCRUM, Trello, Slack, GitHub, GitFlow, Git, Refactoring, Continuous Integration and Continuous Delivery(CI/CD), Notion;
 	
 #### Learning:
-- Java, Python
+- 🌱 Java, Python
 	
 #### Want-to-learn list:
-- Angular, Vue, Reduz, Flutter, React Native, .NET, C++, C#, GraphQL, SAAS, Next.js, Jira, PHP, Laravel, Kotlin, and many more to come!
+- 📃 Angular, Vue, Reduz, Flutter, React Native, .NET, C++, C#, GraphQL, SAAS, Next.js, Jira, PHP, Laravel, Kotlin, and many more to come!
 <!---
 allipski/allipski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
