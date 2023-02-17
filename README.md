@@ -42,7 +42,7 @@
 - 🌱 Java, Python
 	
 #### Want-to-learn list:
-- 📃 Angular, Vue, Reduz, Flutter, React Native, .NET, C++, C#, GraphQL, SAAS, Next.js, Jira, PHP, Laravel, Kotlin, and many more to come!
+- 📃 Angular, Vue, Redux, Flutter, React Native, .NET, C++, C#, GraphQL, SAAS, Next.js, Jira, PHP, Laravel, Kotlin, and many more to come!
 <!---
 allipski/allipski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
