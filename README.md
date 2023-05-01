@@ -7,6 +7,23 @@
   <a href="https://github.com/allipski">
 </div>
 
+#### About me:
+- 👩‍💻 I’m a fullstack dev @DrivenEducation looking for an opportunity to contribute and bring my skills to the battlefield.
+- 👩‍🎓 I've graduated in business & hotel management in Australia, but also went to engineering college in Brazil.
+- 👀 I’m interested in coding, cats, gaming, barista coffe, entrepreneurship, nature and social/enviromental matters that can make the world a better place for everyone.
+	
+#### Skills:
+- 🦚 Front-end: HTML, CSS, Flexbox, JavaScript, React JS, Typescript, Object Oriented Programming (OOP), Styled-components, Vercel, Vite, Webpack;
+- 💺 Back-end: Typescript, Node.js, Express, MongoDB, PostgreSQL, Jest, Layered Architecture, Heroku, SQL, MySQL, Integration Testing, Test-driven Development (TDD), Prisma, ORM, PgAdmin, Redis, relational and non-relational databases;
+- 🏢 Infra: Docker, AWS (Amazon Web Service);
+- 📌 Others: Clean Code, ESLint, Agile Methodologies, SCRUM, Trello, Slack, GitHub, GitFlow, Git, Refactoring, Continuous Integration and Continuous Delivery(CI/CD), Notion;
+	
+#### Learning:
+- 🌱 Java, Python
+	
+#### Want-to-learn list:
+- 📃 Angular, Vue, Redux, Flutter, React Native, .NET, C++, C#, GraphQL, SAAS, Next.js, PHP, Laravel, Kotlin, and many more to come!
+
 <div style="display: inline_block"><br>	
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -25,22 +42,6 @@
  
 </div>
 
-#### About me:
-- 👩‍💻 I’m a fullstack dev @DrivenEducation looking for an opportunity to contribute and bring my skills to the battlefield.
-- 👩‍🎓 I've graduated in business & hotel management in Australia, but also went to engineering college in Brazil.
-- 👀 I’m interested in coding, cats, gaming, barista coffe, entrepreneurship, nature and social/enviromental matters that can make the world a better place for everyone.
-	
-#### Skills:
-- 🦚 Front-end: HTML, CSS, Flexbox, JavaScript, React JS, Typescript, Object Oriented Programming (OOP), Styled-components, Vercel, Vite, Webpack;
-- 💺 Back-end: Typescript, Node.js, Express, MongoDB, PostgreSQL, Jest, Layered Architecture, Heroku, SQL, MySQL, Integration Testing, Test-driven Development (TDD), Prisma, ORM, PgAdmin, Redis, relational and non-relational databases;
-- 🏢 Infra: Docker, AWS (Amazon Web Service);
-- 📌 Others: Clean Code, ESLint, Agile Methodologies, SCRUM, Trello, Slack, GitHub, GitFlow, Git, Refactoring, Continuous Integration and Continuous Delivery(CI/CD), Notion;
-	
-#### Learning:
-- 🌱 Java, Python
-	
-#### Want-to-learn list:
-- 📃 Angular, Vue, Redux, Flutter, React Native, .NET, C++, C#, GraphQL, SAAS, Next.js, PHP, Laravel, Kotlin, and many more to come!
 <!---
 allipski/allipski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
