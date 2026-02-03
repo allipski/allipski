@@ -10,7 +10,7 @@ With a background in **International Business** and experience in high-stakes en
 * **Documentation Standards:** Markdown, Docs-as-Code, Topic-based Authoring (DITA principles).
 
 ### 🚀 Technical Documentation Portfolio
-* [**AWS Cognito Auth Guide**](./links/auth-guide.md) – A deep dive into implementing secure authentication.
+* [**LocalStack Environment Setup**](./links/localstack-guide.md) – A step-by-step guide to emulating AWS services locally on Windows.
 * [**API Reference Example**](./links/api-reference.md) – Precise documentation for REST/GraphQL endpoints.
 * [**Infrastructure as Code (IaC) Tutorial**](./links/terraform-lambda.md) – Step-by-step guide for deploying Lambdas with Terraform.
 
